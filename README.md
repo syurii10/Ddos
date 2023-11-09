@@ -1,7 +1,7 @@
 ## Clone project
 
 ```sh
-git clone
+git clone <--link-->
 ```
 
 
