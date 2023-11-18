@@ -1,4 +1,4 @@
-@import './base.css';
+/*@import './base.css';*/
 @import 'bootstrap/dist/css/bootstrap.css';
 @import 'bootstrap/dist/css/bootstrap-grid.css';
 @import './font/fontawesome-free-5.15.4-web/css/all.css';
@@ -10,8 +10,11 @@
   flex-direction: column;
   font-weight: normal;
   align-items: center;
+  color: white;
 }
-
+a, p, span, button {
+  color: white;
+}
 a,
 .green {
   text-decoration: none;
